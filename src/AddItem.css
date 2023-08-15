@@ -1,0 +1,25 @@
+.Add-Form{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.Add-Item{
+    display: block;
+    justify-content: center;
+    text-align: center;
+    margin: 50;
+    box-shadow: 2px 5px 20px ;
+    border: none;
+    height: 25px;
+    font-size: 20px;
+}
+
+.Add-Item-Button{
+    color: red;
+    font-weight: bold;
+    background-color: black;
+    border: 0px;
+    box-shadow: 2px 5px 20px gray;
+}

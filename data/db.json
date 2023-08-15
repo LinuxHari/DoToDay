@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "coding",
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "Practicing",
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "eating",
+      "status": true
+    }
+  ]
+}
